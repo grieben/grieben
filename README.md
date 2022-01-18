@@ -1,4 +1,4 @@
 # Currently Working On:
-  - Learning Go (advent-of-code)
+  - Learning Svelte
   - Playing with Lisp
   - Building useful Webapps
