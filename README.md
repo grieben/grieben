@@ -1,4 +1,1 @@
-# Currently Working On:
-  - Learning Svelte
-  - Playing with Lisp
-  - Building useful Webapps
+General purpose nerd.
